@@ -5,5 +5,5 @@ edition = "2021"
 authors = ["Warushika Wijayarathna <"]
 
 [dependencies]
-rand = "0.3.18"
-piston_window = "0.74.0"
+rand = "0.8"
+piston_window = "0.117.0"
