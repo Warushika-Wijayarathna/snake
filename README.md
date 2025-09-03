@@ -6,6 +6,12 @@ A classic Snake game implementation written in Rust using the Piston game engine
 
 This is a simple Snake game where the player controls a snake that moves around the screen, eating food to grow longer while avoiding collisions with walls and its own body. The game automatically restarts after a game over.
 
+## Screenshots
+
+![Snake Game Screenshot](screenshots/img.png)
+
+*The classic Snake game in action - control the green snake to eat red food while avoiding walls and your own tail.*
+
 ## Prerequisites
 
 - Rust (latest stable version)
